@@ -13,4 +13,4 @@ Result-
 Final Accuracy -85% 
 
 Trying other models
-I Tried other models like KNN, Gaussian Naieve Baise, and desision tree classifier and compared it to LSTM.
+I Tried other models like KNN, Gaussian Naive Bayse, and decision tree classifier and compared it to LSTM.
